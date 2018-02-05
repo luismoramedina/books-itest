@@ -1,0 +1,1 @@
+insert into books VALUES ('1','Ubik','Philip Kindred Dick');
